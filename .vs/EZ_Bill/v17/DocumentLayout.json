@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|d:\\coding folder\\ez bill project\\ez_bill\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmpurchasesales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmpurchasesales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmpurchasesales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmpurchasesales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\transactionsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\transactionsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\transactionsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\transactionsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\deacustdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\deacustdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\bll\\categoriesbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:bll\\categoriesbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\categoriesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\categoriesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmcategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmcategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\bll\\transactionsbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:bll\\transactionsbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\bll\\deacustbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:bll\\deacustbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmdeacust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmdeacust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmdeacust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmdeacust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmadmindashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmadmindashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\dal\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:dal\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmuserdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmuserdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\ui\\frmdeacust.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:ui\\frmdeacust.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|D:\\coding folder\\EZ Bill Project\\EZ_Bill\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AA676010-BF65-4570-8546-3C1E0A1ECD97}|EZ_Bill.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductDAL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\ProductDAL.cs",
+              "RelativeToolTip": "DAL\\ProductDAL.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwCIBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:55:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.cs",
+              "RelativeDocumentMoniker": "UI\\frmAdminDashboard.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.cs [Design]",
+              "RelativeToolTip": "UI\\frmAdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:46:20.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmProduct.cs",
+              "RelativeDocumentMoniker": "UI\\frmProduct.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmProduct.cs [Design]",
+              "RelativeToolTip": "UI\\frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:07:16.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmProduct.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmProduct.cs",
+              "RelativeDocumentMoniker": "UI\\frmProduct.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmProduct.cs",
+              "RelativeToolTip": "UI\\frmProduct.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAqwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:07:36.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPurchaseSales.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmPurchaseSales.cs",
+              "RelativeDocumentMoniker": "UI\\frmPurchaseSales.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmPurchaseSales.cs",
+              "RelativeToolTip": "UI\\frmPurchaseSales.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAnwMEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:33:40.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductBLL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\ProductBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductBLL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\ProductBLL.cs",
+              "RelativeToolTip": "BLL\\ProductBLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:37:29.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPurchaseSales.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmPurchaseSales.cs",
+              "RelativeDocumentMoniker": "UI\\frmPurchaseSales.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmPurchaseSales.cs [Design]",
+              "RelativeToolTip": "UI\\frmPurchaseSales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:59:27.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTransactions.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmTransactions.cs",
+              "RelativeDocumentMoniker": "UI\\frmTransactions.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmTransactions.cs [Design]",
+              "RelativeToolTip": "UI\\frmTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:50:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionsDetails.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\TransactionsDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\TransactionsDetails.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\TransactionsDetails.cs",
+              "RelativeToolTip": "DAL\\TransactionsDetails.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:35:38.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTransactions.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmTransactions.cs",
+              "RelativeDocumentMoniker": "UI\\frmTransactions.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmTransactions.cs",
+              "RelativeToolTip": "UI\\frmTransactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:59:26.302Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionsDAL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\TransactionsDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TransactionsDAL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\TransactionsDAL.cs",
+              "RelativeToolTip": "DAL\\TransactionsDAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:34:56.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeaCustDAL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\DeaCustDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DeaCustDAL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\DeaCustDAL.cs",
+              "RelativeToolTip": "DAL\\DeaCustDAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwDQBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:23:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesBLL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\CategoriesBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\CategoriesBLL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\CategoriesBLL.cs",
+              "RelativeToolTip": "BLL\\CategoriesBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:32:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesDAL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\CategoriesDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CategoriesDAL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\CategoriesDAL.cs",
+              "RelativeToolTip": "DAL\\CategoriesDAL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:56:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAdminDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\frmAdminDashboard.Designer.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.Designer.cs",
+              "RelativeToolTip": "UI\\frmAdminDashboard.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:47:28.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "userDAL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\userDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\userDAL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\userDAL.cs",
+              "RelativeToolTip": "DAL\\userDAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwN0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:12:14.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmCategories.Designer.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmCategories.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\frmCategories.Designer.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmCategories.Designer.cs",
+              "RelativeToolTip": "UI\\frmCategories.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:20:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "loginDAL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\loginDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\loginDAL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\loginDAL.cs",
+              "RelativeToolTip": "DAL\\loginDAL.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:15:57.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "transactionsBLL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\transactionsBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\transactionsBLL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\transactionsBLL.cs",
+              "RelativeToolTip": "BLL\\transactionsBLL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:06:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmCategories.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmCategories.cs",
+              "RelativeDocumentMoniker": "UI\\frmCategories.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmCategories.cs [Design]",
+              "RelativeToolTip": "UI\\frmCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:52:05.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeaCustBLL.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\DeaCustBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DeaCustBLL.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\BLL\\DeaCustBLL.cs",
+              "RelativeToolTip": "BLL\\DeaCustBLL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:55:28.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmDeaCust.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmDeaCust.cs",
+              "RelativeDocumentMoniker": "UI\\frmDeaCust.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmDeaCust.cs [Design]",
+              "RelativeToolTip": "UI\\frmDeaCust.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:58:04.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmInventory.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmInventory.cs",
+              "RelativeDocumentMoniker": "UI\\frmInventory.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmInventory.cs [Design]",
+              "RelativeToolTip": "UI\\frmInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:03:16.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmCategories.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmCategories.cs",
+              "RelativeDocumentMoniker": "UI\\frmCategories.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmCategories.cs",
+              "RelativeToolTip": "UI\\frmCategories.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAEwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:59:36.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmUsers.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUsers.cs",
+              "RelativeDocumentMoniker": "UI\\frmUsers.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUsers.cs [Design]",
+              "RelativeToolTip": "UI\\frmUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:10:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmDeaCust.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmDeaCust.cs",
+              "RelativeDocumentMoniker": "UI\\frmDeaCust.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmDeaCust.cs",
+              "RelativeToolTip": "UI\\frmDeaCust.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:58:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUsers.cs",
+              "RelativeDocumentMoniker": "UI\\frmUsers.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUsers.cs",
+              "RelativeToolTip": "UI\\frmUsers.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwH0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:04:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "UI\\frmLogin.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "UI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:45:04.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmUserDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUserDashboard.cs",
+              "RelativeDocumentMoniker": "UI\\frmUserDashboard.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUserDashboard.cs [Design]",
+              "RelativeToolTip": "UI\\frmUserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:59:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmAdminDashboard.resx",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.resx",
+              "RelativeDocumentMoniker": "UI\\frmAdminDashboard.resx",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.resx",
+              "RelativeToolTip": "UI\\frmAdminDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-24T13:47:32.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmAdminDashboard.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.cs",
+              "RelativeDocumentMoniker": "UI\\frmAdminDashboard.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmAdminDashboard.cs",
+              "RelativeToolTip": "UI\\frmAdminDashboard.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:59:59.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmUserDashboard.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUserDashboard.cs",
+              "RelativeDocumentMoniker": "UI\\frmUserDashboard.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUserDashboard.cs",
+              "RelativeToolTip": "UI\\frmUserDashboard.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:00:14.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "DAL\\DGVPrinter.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\DAL\\DGVPrinter.cs",
+              "RelativeToolTip": "DAL\\DGVPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkPAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:10:09.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmUserDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUserDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\frmUserDashboard.Designer.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmUserDashboard.Designer.cs",
+              "RelativeToolTip": "UI\\frmUserDashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:05:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:04:38.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "UI\\frmLogin.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmLogin.cs",
+              "RelativeToolTip": "UI\\frmLogin.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:59:15.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmInventory.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmInventory.cs",
+              "RelativeDocumentMoniker": "UI\\frmInventory.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmInventory.cs",
+              "RelativeToolTip": "UI\\frmInventory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:27:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:04:59.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmDeaCust.Designer.cs",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmDeaCust.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\frmDeaCust.Designer.cs",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\UI\\frmDeaCust.Designer.cs",
+              "RelativeToolTip": "UI\\frmDeaCust.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:24:11.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\coding folder\\EZ Bill Project\\EZ_Bill\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T02:16:56.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
